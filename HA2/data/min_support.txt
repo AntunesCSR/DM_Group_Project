@@ -36,9 +36,9 @@ Minimum support: 0.002, Time: 640.154 s, FI Mem usage: 0.294MB, Total Mem usage:
 0.002
 Minimum support: 0.001, Time: 3421.852 s, FI Mem usage: 0.800MB, Total Mem usage: 1076.555MB
 0.001
-Minimum support: 0.001, Time: 5659.659 s, FI Mem usage: 0.936MB, Total Mem usage: 1230.812MB
+Minimum support: 0.0009, Time: 5659.659 s, FI Mem usage: 0.936MB, Total Mem usage: 1230.812MB
 0.0009
-Minimum support: 0.001, Time: 5356.915 s, FI Mem usage: 1.101MB, Total Mem usage: 1261.453MB
+Minimum support: 0.0008, Time: 5356.915 s, FI Mem usage: 1.101MB, Total Mem usage: 1261.453MB
 0.0008
 Minimum support: 0.0007, Time: 7135.905 s, FI Mem usage: 1.338MB, Total Mem usage: 1270.957MB
 0.0007
