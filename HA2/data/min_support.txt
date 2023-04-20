@@ -1,0 +1,46 @@
+Minimum support: 0.100, Time: 1.006 s, FI Mem usage: 0.001MB, Total Mem usage: 1554.504MB
+0.1
+Minimum support: 0.090, Time: 0.983 s, FI Mem usage: 0.001MB, Total Mem usage: 1557.953MB
+0.09
+Minimum support: 0.080, Time: 0.997 s, FI Mem usage: 0.001MB, Total Mem usage: 1561.797MB
+0.08
+Minimum support: 0.070, Time: 1.023 s, FI Mem usage: 0.001MB, Total Mem usage: 1564.648MB
+0.07
+Minimum support: 0.060, Time: 1.035 s, FI Mem usage: 0.001MB, Total Mem usage: 1568.480MB
+0.06
+Minimum support: 0.050, Time: 1.067 s, FI Mem usage: 0.001MB, Total Mem usage: 1569.250MB
+0.05
+Minimum support: 0.040, Time: 1.188 s, FI Mem usage: 0.002MB, Total Mem usage: 1563.648MB
+0.04
+Minimum support: 0.030, Time: 1.303 s, FI Mem usage: 0.003MB, Total Mem usage: 1555.527MB
+0.03
+Minimum support: 0.020, Time: 1.908 s, FI Mem usage: 0.008MB, Total Mem usage: 1535.457MB
+0.02
+Minimum support: 0.010, Time: 10.335 s, FI Mem usage: 0.024MB, Total Mem usage: 701.582MB
+0.01
+Minimum support: 0.009, Time: 12.876 s, FI Mem usage: 0.029MB, Total Mem usage: 699.691MB
+0.009
+Minimum support: 0.008, Time: 16.878 s, FI Mem usage: 0.033MB, Total Mem usage: 699.566MB
+0.008
+Minimum support: 0.007, Time: 22.958 s, FI Mem usage: 0.040MB, Total Mem usage: 767.898MB
+0.007
+Minimum support: 0.006, Time: 33.400 s, FI Mem usage: 0.052MB, Total Mem usage: 726.266MB
+0.006
+Minimum support: 0.005, Time: 49.857 s, FI Mem usage: 0.067MB, Total Mem usage: 824.684MB
+0.005
+Minimum support: 0.004, Time: 93.349 s, FI Mem usage: 0.100MB, Total Mem usage: 878.039MB
+0.004
+Minimum support: 0.003, Time: 212.875 s, FI Mem usage: 0.162MB, Total Mem usage: 909.422MB
+0.003
+Minimum support: 0.002, Time: 640.154 s, FI Mem usage: 0.294MB, Total Mem usage: 1063.766MB
+0.002
+Minimum support: 0.001, Time: 3421.852 s, FI Mem usage: 0.800MB, Total Mem usage: 1076.555MB
+0.001
+Minimum support: 0.0009, Time: 5659.659 s, FI Mem usage: 0.936MB, Total Mem usage: 1230.812MB
+0.0009
+Minimum support: 0.0008, Time: 5356.915 s, FI Mem usage: 1.101MB, Total Mem usage: 1261.453MB
+0.0008
+Minimum support: 0.0007, Time: 7135.905 s, FI Mem usage: 1.338MB, Total Mem usage: 1270.957MB
+0.0007
+Minimum support: 0.0006, Time: 36683.659 s, FI Mem usage: 1.668MB, Total Mem usage: 1272.340MB
+0.0006
